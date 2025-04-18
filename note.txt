@@ -1,4 +1,5 @@
 # pip install flask pandas scikit-learn joblib
-
-# run - train_pipeline.py to get the all scores
+# test_api.py is used to check the prediction score in Postman
+# run - train_pipeline.py to get the all scores (Best score)
+# run - streamlit run streamlit_app.py to open the app in browser
 # 
