@@ -1,0 +1,4 @@
+# pip install flask pandas scikit-learn joblib
+
+# run - train_pipeline.py to get the all scores
+# 
