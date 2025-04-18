@@ -1,1 +1,2 @@
-End-To-End Project with new data
+# ml-streamlit-app-Students_score
+Created a Basic Project Structure for Students score Prediction
